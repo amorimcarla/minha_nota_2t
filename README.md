@@ -1,3 +1,1 @@
-# minha_nota_2t
-
-carla 1-A  9
+# primeiroa_2t
